@@ -23,3 +23,7 @@ Choice your [JUnit](https://mvnrepository.com/artifact/org.junit.jupiter/junit-j
     <scope>test</scope>
 </dependency>
 ```
+
+## Katas
+
+>[Cats and shelves](https://www.codewars.com/kata/62c93765cef6f10030dfa92b/train/java)
