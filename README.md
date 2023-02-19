@@ -1,18 +1,21 @@
-<h1 style = "color: ">Codewars Java Kata Solutions</h1>
+## Codewars Java Kata Solutions
 
-<div style="display: flex;">
-  <img style="margin-right: 8px;" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
-  <img style="margin-right: 8px;" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnity-100000?style=for-the-badge&logo=JUnit5&logoColor=24995d&labelColor=d14d46&color=d14d46)
 
-## Access Codewars
-[Codewars]()
+### Install Java
+Download java jdk in [Azul JDKs](https://www.azul.com/downloads/?package=jdk) and follow this steps to [Install Java JDK 17 on Windows](https://www.youtube.com/watch?v=QekeJBShCy4).
 
-## Install IntelliJ
-[IntelliJ](https://www.jetbrains.com/idea/download/#section=windows)
+### Access Codewars
+Access [Codewars](https://www.codewars.com) to view all katas.
 
-## Install JUnit
-Choice your [JUnit](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api) version and copy maven dependency and add to pom.xml file.
+### Install IntelliJ
+Install [IntelliJ](https://www.jetbrains.com/idea/download/#section=windows) as IDE or other that you like.
+
+### Add JUnit
+Choice your [JUnit](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api) version, copy maven dependency and add to pom.xml file.
 
 ```
 <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
@@ -23,7 +26,3 @@ Choice your [JUnit](https://mvnrepository.com/artifact/org.junit.jupiter/junit-j
     <scope>test</scope>
 </dependency>
 ```
-
-## Katas
-
->[Cats and shelves](https://www.codewars.com/kata/62c93765cef6f10030dfa92b/train/java)

@@ -1,9 +1,10 @@
-# [Cats and shelves](https://www.codewars.com/kata/62c93765cef6f10030dfa92b/train/java)
-![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-  <img style="margin-right: 8px;" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+## [Cats and shelves](https://www.codewars.com/kata/62c93765cef6f10030dfa92b/train/java)
+
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
-## Instructions
+### Instructions
 An infinite number of shelves are arranged one above the other in a staggered fashion.
 The cat can jump up to 3 shelves at the same time: from shelf 1 to shelf 2 or 4 (the cat cannot climb on the shelf directly above its head), according to the illustration:
 
@@ -28,15 +29,15 @@ BANG!────┘  ├─────► OK!
 └────────┘
 ```
 
-## Input
+### Input
 Start and finish shelf numbers (always positive integers, finish no smaller than start)
 
-## Task
+### Task
 Find the minimum number of jumps to go from start to finish
 
-## Example
+### Example
 Start ```1```, finish ```5```, then answer is ```2```
 ```(1 => 4 => 5 or 1 => 2 => 5)```
 
-## Inspirers
+### Inspirers
 <img src='https://i.ibb.co/BymvZtL/Inspirers.jpg' height='500px'>
