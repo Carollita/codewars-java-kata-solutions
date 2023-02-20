@@ -1,8 +1,8 @@
 ## [Cats and shelves](https://www.codewars.com/kata/62c93765cef6f10030dfa92b/train/java)
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
+![JUnit](https://img.shields.io/badge/JUnity-100000?style=for-the-badge&logo=JUnit5&logoColor=24995d&labelColor=d14d46&color=d14d46)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 ### Instructions
 An infinite number of shelves are arranged one above the other in a staggered fashion.
