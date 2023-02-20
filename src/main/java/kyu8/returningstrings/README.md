@@ -1,4 +1,4 @@
-## [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/java)
+## [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4/train/java)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnity-100000?style=for-the-badge&logo=JUnit5&logoColor=24995d&labelColor=d14d46&color=d14d46)
